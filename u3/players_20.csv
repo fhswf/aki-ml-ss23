@@ -1,0 +1,85 @@
+short_name,age,height_cm,weight_kg,nationality,club,overall,potential,value_eur,wage_eur,player_positions,preferred_foot
+M. Reus,30,180,71,Germany,Borussia Dortmund,88,88,56000000,170000,"CAM, LM, ST",Right
+M. Hummels,30,191,94,Germany,Borussia Dortmund,87,87,41000000,130000,CB,Right
+R. BÃ¼rki,28,187,85,Switzerland,Borussia Dortmund,85,86,32000000,92000,GK,Right
+A. Witsel,30,186,81,Belgium,Borussia Dortmund,85,85,31500000,110000,"CDM, CM",Right
+J. Sancho,19,180,76,England,Borussia Dortmund,84,92,44500000,61000,"RM, LM",Right
+K. Havertz,20,188,83,Germany,Bayer 04 Leverkusen,84,92,46000000,70000,"CAM, RM",Left
+J. Brandt,23,185,83,Germany,Borussia Dortmund,84,88,40500000,94000,"CAM, LM, RM",Right
+J. Tah,23,195,97,Germany,Bayer 04 Leverkusen,83,88,31000000,67000,CB,Right
+M. Akanji,23,187,91,Switzerland,Borussia Dortmund,83,88,31000000,77000,CB,Right
+Paco AlcÃ¡cer,25,175,72,Spain,Borussia Dortmund,83,85,32000000,105000,ST,Right
+L. HrÃ¡deckÃ½,29,192,85,Finland,Bayer 04 Leverkusen,83,83,18500000,67000,GK,Right
+C. ArÃ¡nguiz,30,171,70,Chile,Bayer 04 Leverkusen,83,83,24000000,86000,"CM, CDM",Right
+L. Bailey,21,178,79,Jamaica,Bayer 04 Leverkusen,82,88,30500000,65000,"LW, RW",Left
+K. Demirbay,25,182,72,Germany,Bayer 04 Leverkusen,82,85,27500000,75000,CM,Left
+M. GÃ¶tze,27,176,75,Germany,Borussia Dortmund,82,83,26000000,98000,"CF, CAM, CM",Right
+T. Delaney,27,182,79,Denmark,Borussia Dortmund,82,83,23000000,82000,"CDM, CM",Left
+N. Schulz,26,181,83,Germany,Borussia Dortmund,82,83,22500000,82000,"LWB, LM, LB",Left
+K. Volland,26,179,83,Germany,Bayer 04 Leverkusen,82,83,26500000,85000,"ST, RW, LW",Left
+T. Hazard,26,175,71,Belgium,Borussia Dortmund,82,83,26000000,90000,"RM, LM, CF",Right
+K. Bellarabi,29,184,81,Germany,Bayer 04 Leverkusen,82,82,21500000,89000,RW,Right
+R. Guerreiro,25,170,71,Portugal,Borussia Dortmund,81,83,21500000,79000,"LM, LB, CM",Left
+L. Piszczek,34,184,79,Poland,Borussia Dortmund,81,81,6000000,76000,RB,Right
+J. Weigl,23,186,72,Germany,Borussia Dortmund,80,84,17500000,61000,"CDM, CB",Right
+L. Bender,30,185,81,Germany,Bayer 04 Leverkusen,80,80,11500000,62000,"RB, CDM, CM",Right
+S. Bender,30,186,81,Germany,Bayer 04 Leverkusen,80,80,12000000,62000,"CB, CDM",Right
+A. Hakimi,20,181,73,Morocco,Borussia Dortmund,79,86,16000000,48000,"LB, RB",Right
+D. Zagadou,20,196,90,France,Borussia Dortmund,79,86,16000000,48000,"CB, LB",Left
+L. Alario,26,184,78,Argentina,Bayer 04 Leverkusen,79,82,16000000,70000,ST,Right
+N. Amiri,22,180,73,Germany,Bayer 04 Leverkusen,78,85,14500000,50000,"CAM, CM",Right
+M. Dahoud,23,178,68,Germany,Borussia Dortmund,78,84,14000000,58000,"CM, CDM",Right
+J. Baumgartlinger,31,184,86,Austria,Bayer 04 Leverkusen,78,78,8000000,53000,CDM,Right
+M. Hitz,31,194,89,Switzerland,Borussia Dortmund,78,78,6500000,49000,GK,Right
+M. Weiser,25,177,71,Germany,Bayer 04 Leverkusen,77,82,10500000,47000,"RB, RM",Right
+Wendell,25,178,72,Brazil,Bayer 04 Leverkusen,77,80,10000000,47000,LB,Left
+A. DragoviÄ‡,28,186,87,Austria,Bayer 04 Leverkusen,77,77,8000000,52000,CB,Right
+M. Schmelzer,31,181,74,Germany,Borussia Dortmund,76,76,5500000,53000,LB,Left
+J. Larsen,20,183,75,Denmark,Borussia Dortmund,75,85,11000000,41000,LM,Right
+P. Retsos,20,186,81,Greece,Bayer 04 Leverkusen,75,85,10000000,32000,"CB, RB, LB",Right
+T. Jedvaj,23,184,82,Croatia,Bayer 04 Leverkusen,75,82,8500000,38000,"CB, RB, LB",Right
+M. Wolf,24,188,81,Germany,Borussia Dortmund,75,80,8000000,43000,"RB, RM, CM",Right
+R. Ã–zcan,35,184,78,Austria,Bayer 04 Leverkusen,75,75,1800000,23000,GK,Left
+M. Diaby,19,170,65,France,Bayer 04 Leverkusen,74,85,9500000,25000,LM,Left
+D. Sinkgraven,23,179,65,Netherlands,Bayer 04 Leverkusen,72,77,3700000,28000,"LB, CM",Left
+Paulinho,18,177,77,Brazil,Bayer 04 Leverkusen,71,86,4900000,11000,RM,Right
+J. Pohjanpalo,24,184,85,Finland,Bayer 04 Leverkusen,71,76,3200000,31000,ST,Right
+S. Singh,20,175,65,New Zealand,Bayern München II,69,81,1900000,3000,CAM,Left
+K. Wriedt,24,188,82,Ghana,Bayern München II,69,74,1400000,3000,ST,Left
+N. Lomb,25,187,84,Germany,Bayer 04 Leverkusen,68,72,850000,14000,GK,Right
+M. WelzmÃ¼ller,29,177,72,Germany,Bayern München II,67,67,650000,2000,"CDM, CM",Right
+T. Kern,29,179,74,Germany,Bayern München II,66,66,625000,2000,"CM, CDM, CAM",Right
+C. FrÃ¼chtl,19,193,84,Germany,Bayern München II,65,82,975000,1000,GK,Left
+L. Mai,19,190,88,Germany,Bayern München II,65,81,1100000,1000,CB,Right
+E. OelschlÃ¤gel,23,193,85,Germany,Borussia Dortmund,65,71,550000,9000,GK,Right
+Mateu Morey,19,173,67,Spain,Borussia Dortmund,64,81,900000,6000,RB,Right
+L. Balerdi,20,187,76,Argentina,Borussia Dortmund,64,80,925000,9000,CB,Right
+A. Stanilewicz,19,181,70,Poland,Bayer 04 Leverkusen,64,80,950000,7000,"CM, CDM",Right
+T. Tillman,20,183,74,Germany,Bayern München II,64,76,800000,1000,"CAM, LW, RW",Right
+N. Feldhahn,32,190,85,Germany,Bayern München II,64,64,290000,2000,"CB, CDM, CM",Right
+O. Batista Meier,18,178,67,Germany,Bayern München II,63,81,750000,1000,"LM, LW",Right
+L. Dajaku,18,180,75,Germany,Bayern München II,63,81,750000,1000,"RM, ST",Right
+P. Will,20,185,77,Germany,Bayern München II,63,78,775000,1000,CDM,Left
+J. Zirkzee,18,193,84,Netherlands,Bayern München II,62,81,625000,1000,"ST, CAM, CF",Right
+A. Nollenberger,22,180,72,Germany,Bayern München II,61,70,400000,1000,"LM, LW, RW",Right
+T. Raschl,19,177,75,Germany,Borussia Dortmund,60,78,425000,4000,CDM,Right
+D. Wanner,20,179,71,Germany,Borussia Dortmund,60,75,450000,7000,"LM, LB, LW",Left
+D. KÃ¶hn,20,180,73,Germany,Bayern München II,60,74,425000,1000,"LB, CDM, LM",Left
+K. Senkbeil,20,184,76,Germany,Bayern München II,60,70,300000,1000,"CB, RB",Right
+K. Bafounta,17,193,81,France,Borussia Dortmund,59,83,325000,1000,CM,Right
+L. Unbehaun,18,185,82,Germany,Borussia Dortmund,59,79,270000,1000,GK,Right
+C. Richards,19,188,79,United States,Bayern München II,59,77,300000,1000,CB,Right
+M. Zylla,19,178,72,Poland,Bayern München II,59,74,325000,1000,"CAM, LW, ST",Right
+M. YÄ±lmaz,20,174,67,Germany,Bayern München II,59,71,250000,1000,"RB, RM",Right
+A. Bakir,18,177,69,Germany,Borussia Dortmund,58,76,260000,3000,"RM, LM, RW",Right
+M. Zaiser,20,176,68,Germany,Bayern München II,58,71,230000,1000,"CDM, CAM, CM",Right
+J. Rochelt,20,182,76,Germany,Bayern München II,58,71,250000,1000,"CAM, ST, RB",Right
+A. Mayer,22,169,66,Germany,Bayern München II,58,68,180000,1000,"LB, LM, CM",Left
+M. Netolitzky,25,191,86,Germany,Bayern München II,58,62,120000,1000,GK,Right
+P. Osterhage,19,184,75,Germany,Borussia Dortmund,57,72,220000,5000,"CM, CDM",Left
+J. Stanisic,19,186,77,Germany,Bayern München II,56,74,180000,1000,"CB, RB",Right
+T. Rieg,19,183,74,Germany,Bayern München II,56,67,140000,1000,"CB, LB",Left
+T. Rausch,19,175,68,Germany,Bayern München II,54,69,140000,1000,"RB, CB, CDM",Right
+M. Wagner,18,187,82,Germany,Bayern München II,54,68,120000,1000,GK,Right
+D. Ontuzans,19,173,69,Latvia,Bayern München II,53,70,130000,1000,"CAM, RW, LW",Right
+C. Karatas,18,180,71,Turkey,Bayern München II,52,68,100000,1000,"RW, ST, LW",Right
